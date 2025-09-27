@@ -1,4 +1,7 @@
 # Plant Disease Classifier (CNN)
+
+## Dataset Link : 
+* https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 ## Project Overview
 * This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify plant leaf images into various categories, identifying specific diseases or healthy states. The model is trained on an augmented dataset and deployed via a user-friendly web interface built with Streamlit.
 
